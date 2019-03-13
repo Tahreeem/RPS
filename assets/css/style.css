@@ -1,0 +1,29 @@
+body {
+    margin: 2vw;
+}
+
+.Buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    height: 20vh;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.Results {
+    //display: flex;
+    border: solid;
+    border-color: black;
+    margin: 10px;
+}
+
+.Winner {
+    background-color: deeppink;
+    font-weight: bold;
+}
+
+.btn {
+    margin: 2px;
+}
